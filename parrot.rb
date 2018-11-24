@@ -3,5 +3,6 @@
 def parrot(phrase == "Squawk!")
   phrase
   puts phrase
+  binding.pry
 end
   
